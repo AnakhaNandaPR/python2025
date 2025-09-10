@@ -1,5 +1,5 @@
-FirstName=input("Enter your  first name:  ")
-SecondName=(input("Enter your second name:  "))
+firstName=input("Enter your  first name:  ")
+secondName=(input("Enter your second name:  "))
 combine=FirstName+SecondName
 print(combine)
 
@@ -9,3 +9,4 @@ z=x
 print(x is not y)
 print(x is y)
 print(x is z)
+
